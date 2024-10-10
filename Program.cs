@@ -29,8 +29,8 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "PetShop API",
-        Description = "Documentação da API para o PetShop",
+        Title = "Microondas API",
+        Description = "Documentação da API para o Microondas",
         Version = "v1"
     });
 });

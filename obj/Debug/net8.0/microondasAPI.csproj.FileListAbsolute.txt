@@ -140,3 +140,4 @@ C:\Users\bielb\projetos\microondasAPI\obj\Debug\net8.0\refint\microondasAPI.dll
 C:\Users\bielb\projetos\microondasAPI\obj\Debug\net8.0\microondasAPI.pdb
 C:\Users\bielb\projetos\microondasAPI\obj\Debug\net8.0\microondasAPI.genruntimeconfig.cache
 C:\Users\bielb\projetos\microondasAPI\obj\Debug\net8.0\ref\microondasAPI.dll
+C:\Users\bielb\projetos\microondasAPI\obj\Debug\net8.0\microondasAPI.sourcelink.json
